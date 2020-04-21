@@ -23,3 +23,5 @@ https://github.com/HirasawaJin/Metropolis-Altas-of-Japan/blob/master/BigPicture.
 Part 8 of the Program is to convert the data into csv that can be linked with original border data from E-Stat.GOV.JP. 
 
 So that you can see the result on GIS.
+
+
