@@ -21,4 +21,5 @@ This is the result of top 76 Metropolis(population above 100,000 ppl) of Japan.
 https://github.com/HirasawaJin/Metropolis-Altas-of-Japan/blob/master/BigPicture.png?raw=False
 
 Part 8 of the Program is to convert the data into csv that can be linked with original border data from E-Stat.GOV.JP. 
-So that you can view the result in GIS.
+
+So that you can see the result on GIS.
