@@ -1,5 +1,5 @@
-# Metropolis-Altas-of-Japan
-This is a project working on creating Metroplis Altas of Japan.
+# Metropolis-Atlas-of-Japan
+This is a project working on creating Metroplis Atlas of Japan.
 The idea whas inspired by this book.
 
 "Africa's Urbanisation Dynamics 2020 - Africapolis, Mapping a New Urban Geography"
