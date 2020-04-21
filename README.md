@@ -14,4 +14,5 @@ https://www.e-stat.go.jp/gis/statmap-search?page=1&type=1&toukeiCode=00200521
 The code itself is very simple. 
 No Machine Leaning or things like that.
 Just some simple algorithm and Boolean.
+
 I will explain more when I know more about how to use Github.
