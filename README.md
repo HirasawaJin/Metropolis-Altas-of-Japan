@@ -20,7 +20,7 @@ I will explain more when I know more about how to use Github.
 This is the result of top 76 Metropolis(population above 100,000 ppl) of Japan. 
 https://github.com/HirasawaJin/Metropolis-Altas-of-Japan/blob/master/BigPicture.png?raw=False
 
-meshIDconverter.py is to convert the finial data into csv that can be linked with original border data from E-Stat.GOV.JP. 
+ProgramPart9_GeographicCoordinate.py is to convert the finial data into csv that can be linked with original border data from E-Stat.GOV.JP. 
 
 So that you can see the result on GIS.
 
